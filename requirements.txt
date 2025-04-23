@@ -1,0 +1,9 @@
+requests
+cryptography
+pynput
+tk
+qrcode
+faker
+beautifulsoup4
+python-nmap
+colorama
